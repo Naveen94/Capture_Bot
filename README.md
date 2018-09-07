@@ -24,7 +24,7 @@ selenium.
 
 # Usage:
 
-Step 1: Edit the source code and add the following appropraite paths:  
+Step 1: Edit the source code and add the following paths appropraitely:  
 
 Fakepath1 - path for chrome/firefox/IE driver,
 
