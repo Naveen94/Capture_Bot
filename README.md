@@ -6,9 +6,9 @@ Created by Naveen KM
 
 # I Programs: 
 
-Python 2.7
+Python 2.7,
 
-Selenium driver for chrome/ firefox / IE
+Selenium driver for chrome/ firefox / IE.
 
 # II Python Packages:
 
@@ -20,18 +20,18 @@ numpy,
 
 matplotlib,
 
-selenium
+selenium.
 
 # Usage:
 
-Step 1: Edit the source code and add the following appropraite paths  
+Step 1: Edit the source code and add the following appropraite paths:  
 
-Fakepath1 - path for chrome/firefox/IE driver
+Fakepath1 - path for chrome/firefox/IE driver,
 
-Fakepath2 - path for input file
+Fakepath2 - path for input file,
 
 Fakepath3 - path for output file - Required at mulitple places in the code.  
 
-Step 2: Run CaptureBot.py
+Step 2: Run CaptureBot.py.
 
 
