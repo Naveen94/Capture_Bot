@@ -27,7 +27,9 @@ selenium
 Step 1: Edit the source code and add the following appropraite paths  
 
 Fakepath1 - path for chrome/firefox/IE driver
+
 Fakepath2 - path for input file
+
 Fakepath3 - path for output file - Required at mulitple places in the code.  
 
 Step 2: Run CaptureBot.py
