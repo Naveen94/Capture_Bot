@@ -7,14 +7,19 @@ Created by Naveen KM
 # I Programs: 
 
 Python 2.7
+
 Selenium driver for chrome/ firefox / IE
 
 # II Python Packages:
 
 csv,
+
 cv2,
+
 numpy,
+
 matplotlib,
+
 selenium
 
 # Usage:
