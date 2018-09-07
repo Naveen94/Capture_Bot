@@ -32,6 +32,6 @@ Fakepath2 - path for input file,
 
 Fakepath3 - path for output file - Required at mulitple places in the code.  
 
-Step 2: Run CaptureBot.py.
+Step 2: Run CaptureBot.py
 
 
