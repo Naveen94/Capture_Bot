@@ -34,4 +34,6 @@ Fakepath3 - path for output file - Required at mulitple places in the code.
 
 Step 2: Run CaptureBot.py
 
+# Sample Screenshot:
 
+![alt text](https://github.com/Naveen94/Capture_Bot/blob/master/sample_screenshot.png)
