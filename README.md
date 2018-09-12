@@ -1,4 +1,4 @@
-# Capture_Bot - A bot to capture the screenshot of list of domains with URL embedded feature
+# Capture_Bot - A bot to capture the screenshot of list of domains
 Created by Naveen KM
 
 # Dependencies:
